@@ -1,0 +1,25 @@
+{
+  "name": "hocomeets",
+  "version": "0.0.1",
+  "authors": [
+    "Ben Thomas <bennyt9000@gmail.com>"
+  ],
+  "description": "Website for the Howard County Winter Track Festival",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.spikefalcon.com/hocotrackfest",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
